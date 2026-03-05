@@ -38,7 +38,6 @@ namespace CyberHack
             
             if(tsa=="CorporateServer")
             {
-                Console.WriteLine();
                 if(hack1=="Phishing" || hack1 == "Backdoor" && hack2 == "BruteForce" || hack2 == "ZeroDay")
                 {
                     Console.WriteLine("System Hacked");
@@ -50,7 +49,14 @@ namespace CyberHack
             }
             if(tsa=="BankDatabase")
             {
-                
+                if(hack1=="ZeroDay" && hack2 == "Backdoor" || hack2 == "QuantumExploit" || hack2 == "AIOverride")
+                {
+                    Console.WriteLine("System Hacked");
+                }
+                else
+                {
+                    Console.WriteLine("System Secure");
+                }
             }
             if(tsa=="SmartCityCore")
             {
