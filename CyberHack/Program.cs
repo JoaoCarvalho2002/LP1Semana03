@@ -35,15 +35,17 @@ namespace CyberHack
             hack1= Console.ReadLine();
             Console.WriteLine();
             hack2= Console.ReadLine();
-
-            Enum.TryParse("Active", out SystemType myStatus);
             
-            /*
             if(tsa=="CorporateServer")
             {
-                if(hack1=="Phishing")OR(hack1 == "Backdoor")AND(hack2 == "BruteForce")OR(hack2 == "ZeroDay")
+                Console.WriteLine();
+                if(hack1=="Phishing" || hack1 == "Backdoor" && hack2 == "BruteForce" || hack2 == "ZeroDay")
                 {
-                    Console.WriteLine("HERE");
+                    Console.WriteLine("System Hacked");
+                }
+                else
+                {
+                    Console.WriteLine("System Secure");
                 }
             }
             if(tsa=="BankDatabase")
@@ -58,7 +60,7 @@ namespace CyberHack
             {
                 
             }
-            */
+            
             
         }
     }
