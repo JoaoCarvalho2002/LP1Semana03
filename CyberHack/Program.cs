@@ -60,11 +60,25 @@ namespace CyberHack
             }
             if(tsa=="SmartCityCore")
             {
-                
+               if(hack1=="ZeroDay" && hack2 == "Backdoor" || hack2 == "QuantumExploit" || hack2 == "AIOverride")
+                {
+                    Console.WriteLine("System Hacked");
+                }
+                else
+                {
+                    Console.WriteLine("System Secure");
+                } 
             }
             if(tsa=="MilitaryAI")
             {
-                
+                if(hack1=="ZeroDay" && hack2 == "Backdoor" && hack1 == "QuantumExploit" || hack2 == "AIOverride")
+                {
+                    Console.WriteLine("System Hacked");
+                }
+                else
+                {
+                    Console.WriteLine("System Secure");
+                }
             }
             
             
