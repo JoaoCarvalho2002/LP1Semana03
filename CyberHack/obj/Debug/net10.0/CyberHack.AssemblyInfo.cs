@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberHack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c5a3feb8352b3c8034ad836b3a099cf5d5ff081")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+089b23325a58cf5e96f9745507f6f7f5be6871d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberHack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberHack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\bin\Debug\net10.0\CyberHack.exe
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\bin\Debug\net10.0\CyberHack.deps.json
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\bin\Debug\net10.0\CyberHack.runtimeconfig.json
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\bin\Debug\net10.0\CyberHack.dll
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\bin\Debug\net10.0\CyberHack.pdb
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\obj\Debug\net10.0\CyberHack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\obj\Debug\net10.0\CyberHack.AssemblyInfoInputs.cache
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\obj\Debug\net10.0\CyberHack.AssemblyInfo.cs
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\obj\Debug\net10.0\CyberHack.csproj.CoreCompileInputs.cache
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\obj\Debug\net10.0\CyberHack.sourcelink.json
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\obj\Debug\net10.0\CyberHack.dll
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\obj\Debug\net10.0\refint\CyberHack.dll
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\obj\Debug\net10.0\CyberHack.pdb
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\obj\Debug\net10.0\CyberHack.genruntimeconfig.cache
+C:\Users\jonit\Desktop\LP1\LP1Semana03\CyberHack\obj\Debug\net10.0\ref\CyberHack.dll
